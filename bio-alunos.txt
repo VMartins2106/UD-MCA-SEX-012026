@@ -5,3 +5,4 @@ Semestre: 7º
 Bairro: São Paulo
 Se trabalha: Sim
 Objetivo: Chegar na liderança
+Objetivo: Estagiar na área
