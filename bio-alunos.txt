@@ -1,7 +1,8 @@
-Nome: Rayssa Souza
-RA: 823117669
+Nome: Diogo Souza
+RA: 823117124
 Curso: Sistemas de Informação
 Semestre: 7º
 Bairro: São Paulo
 Se trabalha: Sim
+Objetivo: Chegar na liderança
 Objetivo: Estagiar na área
