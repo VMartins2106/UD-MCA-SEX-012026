@@ -4,5 +4,6 @@ Curso: Sistemas de Informação
 Semestre: 7º
 Bairro: São Paulo
 Se trabalha: Sim
+Objetivo: Crescer na carreira
 Objetivo: Chegar na liderança
 Objetivo: Estagiar na área
